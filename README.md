@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Filiz</h1>
-<h3 align="center">I've been coding for about a year. I usually work on frond-end.</h3>
+<h3 align="center">I've been coding for about a year. I usually work on front-end.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devburakfiliz&label=Profile%20views&color=0e75b6&style=flat" alt="devburakfiliz" /> </p>
 
