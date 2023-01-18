@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React, React Native, Angular, C# **
 
 - 📫 How to reach me **dev.burakfiliz@gmail.com**
 
