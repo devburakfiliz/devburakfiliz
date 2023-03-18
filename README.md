@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-- 🔭 I’m currently working on [PrinterTrackingAPP](https://github.com/devburakfiliz/PrinterTrackingAPP-Backend)
+
 
 - 📫 How to reach me **dev.burakfiliz@gmail.com**
 
